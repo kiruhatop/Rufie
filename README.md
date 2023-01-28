@@ -1,2 +1,2 @@
 # Rufie
-This is Rufie Test.
+This is a Rufie Test.
